@@ -1,0 +1,7 @@
+﻿  list.c
+  main.c
+  Generating Code...
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\InClass (Pt2)\InClass\Linked List\list.c(26,11): warning C4098: 'Remove': 'void' function returning a value
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\InClass (Pt2)\InClass\Linked List\list.c(36,11): warning C4098: 'Remove': 'void' function returning a value
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\InClass (Pt2)\InClass\Linked List\list.c(49,11): warning C4098: 'Display': 'void' function returning a value
+  Linked List.vcxproj -> C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\InClass (Pt2)\InClass\x64\Debug\Linked List.exe

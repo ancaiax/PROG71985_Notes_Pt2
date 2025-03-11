@@ -1,0 +1,10 @@
+﻿  classroom.c
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\InClass (Pt2)\InClass\Classroom\classroom.c(82,39): warning C4028: formal parameter 1 different from declaration
+  main.c
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\InClass (Pt2)\InClass\Classroom\main.c(44,5): warning C4013: 'PrintClassroom' undefined; assuming extern returning int
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\InClass (Pt2)\InClass\Classroom\main.c(31,12): warning C4101: 'pSteve': unreferenced local variable
+  person.c
+  Generating Code...
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\InClass (Pt2)\InClass\Classroom\person.c(73,1): warning C4716: 'SavePersonToDisk': must return a value
+main.obj : error LNK2019: unresolved external symbol PrintClassroom referenced in function main
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\InClass (Pt2)\InClass\x64\Debug\Classroom.exe : fatal error LNK1120: 1 unresolved externals
